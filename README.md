@@ -1,5 +1,5 @@
 # PMSM_FOC_control
-# keywords: PMSM, FOC, d-q decoupling, dynamic gain scheduling, field weakening
+# keywords: PMSM, FOC, d-q decoupling, PI gain scheduling, field weakening
 
 A PMSM motor with a FOC control structure is modelled in Simulink. 
 
